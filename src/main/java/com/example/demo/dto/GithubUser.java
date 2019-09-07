@@ -5,7 +5,7 @@ import lombok.ToString;
 
 @Data
 @ToString
-public class GithubUserDto {
+public class GithubUser {
     private String name;
     private String bio;
     private Long id;
